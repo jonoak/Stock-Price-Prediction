@@ -3,7 +3,7 @@
 
 This project demonstrates how to build a Long Short-Term Memory (LSTM) neural network to predict stock prices using Python, TensorFlow, and scikit-learn.
 
-[screenshot](/screenshot2.png)
+![screenshot](/screenshot2.png)
 
 
 ## Requirements
